@@ -4,4 +4,4 @@ glide.lock
 vendor
 .idea
 go.sum
-build.gradle
+*.gradle
