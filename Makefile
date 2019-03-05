@@ -7,4 +7,4 @@ test:
 	$(GO) vet ./...
 
 prepare:
-  sh hello
+  echo hello
