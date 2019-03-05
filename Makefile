@@ -7,3 +7,4 @@ test:
 	$(GO) vet ./...
 
 prepare:
+  sh hello
